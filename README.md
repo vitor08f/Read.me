@@ -4,7 +4,7 @@
 **💻 Programming student constantly learning!**
 
 <p align="left">
- <img src="[file:///C:/Users/minim/Downloads/Persona%205%20Beneath%20The%20Mask%20Rainy%20Mood%20Live%20Wallpaper.gif](https://wallpaperaccess.com/full/6747325.jpg)">
+ <img src="https://wallpaperaccess.com/full/6747325.jpg">
 </p>
 
 ### 📃Estudando: 
