@@ -20,6 +20,6 @@
 
 <img align="center" height="40" src="https://img.shields.io/badge/Git-E44C30?style=for-the-badge&logo=git&logoColor=white"/>
 
-<img align="center" src="https://chatgpt.com/c/69c70c6f-a2b8-83e9-950d-4b54a26c09d4"/>
+<img align="center" src="https://chatgpt.com/s/m_69c74052a4848191a7303f0a9aa0cff6"/>
 
 </div>
