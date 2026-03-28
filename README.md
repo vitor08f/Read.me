@@ -3,7 +3,7 @@
 
 **💻 Programming student always evolving!**
 <p align="center">
-  <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/269271281/570769686-591bf80d-6b89-47ec-a35f-f59c63dbd3da.mp4?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20260328%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20260328T031529Z&X-Amz-Expires=300&X-Amz-Signature=61cdd1121a5e1f70e2bcc5b6c7c64209948baee8aea03bbfdc90b0987b766a78&X-Amz-SignedHeaders=host"/>
+  <img src=""/>
 </p>  
 
 ---
