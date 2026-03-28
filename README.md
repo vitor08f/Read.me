@@ -3,7 +3,7 @@
 
 **💻 Programming student always evolving!**
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/591bf80d-6b89-47ec-a35f-f59c63dbd3da"/>
+  <img src="https://github.com/user-attachments/assets/591bf80d-6b89-47ec-a35f-f59c63dbd3da.gif"/>
 </p>  
 
 ---
