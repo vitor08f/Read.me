@@ -2,11 +2,9 @@
 ## 	 My name is Vitor Freitas and my nick is VtDev!
 
 **💻 Programming student always evolving!**
-
-<p align="left">
- <img src="https://i.imgur.com/cfGwrMT.gif" width="1980">
+<p align="center">
+  <img src="https://i.imgur.com/cfGwrMT.gif" width="100%"/>
 </p>
----
 
 ### 📚 Currently studying:
 
