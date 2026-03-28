@@ -1,13 +1,11 @@
-# 🙋‍♂️ Hello World!
+# :no_good: Hello World 🤖!
+## 	 My name is Vitor Freitas and my nick is VtDev!
 
-## My name is Vitor Freitas (aka VtDev)
+**💻 Programming student always evolving!**
 
-💻 Programming student, constantly learning!
-
-<p align="center">
-  <img src="https://wallpaperaccess.com/full/6747325.jpg" width="500"/>
+<p align="left">
+ <img src="https://wallpaperaccess.com/full/6747325.jpg" width="1980">
 </p>
-
 ---
 
 ### 📚 Currently studying:
