@@ -1,10 +1,10 @@
-# :no_good: Hello World 🤖!
+# Hello World 🤖!
 ## 	 My name is Vitor Freitas and my nick is VtDev!
 
 **💻 Programming student always evolving!**
 
 <p align="left">
- <img src="https://wallpaperaccess.com/full/6747325.jpg" width="1980">
+ <img src="https://i.imgur.com/cfGwrMT.gif" width="1980">
 </p>
 ---
 
