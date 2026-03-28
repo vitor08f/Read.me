@@ -3,10 +3,12 @@
 
 **💻 Programming student always evolving!**
 <p align="center">
-  <img src="https://i.imgur.com/cfGwrMT.gif" style="max-width: 100%;"/>
-</p>
+  <img src="https://github.com/user-attachments/assets/591bf80d-6b89-47ec-a35f-f59c63dbd3da"/>
+</p>  
 
 ---
+
+
 ### 📚 Currently studying:
 
 
