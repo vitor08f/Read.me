@@ -21,7 +21,4 @@
 
 <img align="center" height="40" src="https://img.shields.io/badge/Git-E44C30?style=for-the-badge&logo=git&logoColor=white"/>
 
-<img align="center" src="<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/5e943cb1-c4ab-4582-8020-34f37b673334" />
-"/>
-<img aling="center" alt="Emblema do GameMaker em detalhes" src="https://github.com/user-attachments/assets/e0e20c46-cee2-4fd1-ba97-35a45d4c2fa0" />
-</div>
+<img align="center" height="40" src="https://img.shields.io/badge/GameMaker-000000?style=for-the-badge&logo=gamemaker&logoColor=white"/>
