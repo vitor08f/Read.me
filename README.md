@@ -15,4 +15,4 @@
 
 <img align="center" height="40" src="https://img.shields.io/badge/Git-E44C30?style=for-the-badge&logo=git&logoColor=white"/>
 
-<img align="center" img align="center" height="40" src="https://img.shields.io/badge/GameMaker-000000?style=for-the-badge"/>
+<img align="center" height="40" src="https://img.shields.io/badge/GameMaker-000000?style=for-the-badge&logo=gamemaker&logoColor=white"/>
