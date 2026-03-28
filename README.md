@@ -3,8 +3,10 @@
 
 **💻 Programming student always evolving!**
 <p align="center">
-  <img src="https://i.imgur.com/cfGwrMT.gif" style="max-width: 100%;"/>
+  <img src="https://i.imgur.com/cfGwrMT.gif" width="100%"/>
 </p>
+
+---
 ### 📚 Currently studying:
 
 
