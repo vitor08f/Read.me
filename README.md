@@ -10,7 +10,8 @@
 
 ---
 
-### 📚 Currently studying:
+### 📚 Currently studying:<img width="1536" height="1024" alt="Emblema do GameMaker em detalhes" src="https://github.com/user-attachments/assets/87677e44-46c7-473a-a8f3-929a3753e9be" />
+
 
 <div style="display: inline_block"><br/>
 
@@ -22,5 +23,5 @@
 
 <img align="center" src="<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/5e943cb1-c4ab-4582-8020-34f37b673334" />
 "/>
-
+<img aling="center" alt="Emblema do GameMaker em detalhes" src="https://github.com/user-attachments/assets/e0e20c46-cee2-4fd1-ba97-35a45d4c2fa0" />
 </div>
